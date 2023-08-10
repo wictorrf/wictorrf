@@ -4,8 +4,8 @@
 
 <div style="display: inline_block">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wictorrf&show_icons=true&theme=cobalt&hide=contribs,prs"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wictorrf&hide=HTML,EJS,CSS&layout=compact&theme=cobalt"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wictorrf&show_icons=true&theme=cobalt&hide=contribs,prs"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wictorrf&hide=HTML,EJS,CSS&layout=compact&theme=cobalt"/>
 
 </div>
 
