@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&width=1000&lines=HELLO,+My+name+is+Wictor+Rafael;I'm+a+Fullstack+Developer;I+from+Brazil;Be+Wellcome!+:%29)](https://git.io/typing-svg)
 
-<div style="display: inline_block">
+<div style="display: flex">
 
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wictorrf&show_icons=true&theme=cobalt&hide=contribs,prs"/>
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wictorrf&hide=HTML,EJS,CSS&layout=compact&theme=cobalt"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wictorrf&layout=compact&hide=ejs,html,css&theme=cobalt"/>
 
 </div>
 
