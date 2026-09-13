@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1B2735&height=120&section=header#gh-dark-mode-only)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header#gh-light-mode-only)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,8 +17,17 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=wictorrf&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wictorrf&theme=dark&hide_border=true#gh-dark-mode-only" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wictorrf&hide_border=true&background=FFFFFF&ring=4682B4&fire=4682B4&currStreakLabel=4682B4&sideLabels=333333&currStreakNum=222222&sideNums=222222&dates=666666&stroke=4682B4#gh-light-mode-only" alt="GitHub Streak" />
 </div>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wictorrf/wictorrf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wictorrf/wictorrf/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/wictorrf/wictorrf/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -41,4 +51,5 @@
   <a href="https://discord.gg/wictorrf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=100&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1B2735&height=100&section=footer#gh-dark-mode-only)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=100&section=footer#gh-light-mode-only)
