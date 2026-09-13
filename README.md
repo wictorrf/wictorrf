@@ -1,27 +1,29 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1B2735&height=120&section=header#gh-dark-mode-only)
-![Header](https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header#gh-light-mode-only)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:B537F2,100:05D9E8&height=120&section=header)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=4682B4&size=28&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Wictor+Rafael+%F0%9F%91%8B;Fullstack+Developer+%7C+.NET+%26+Vue.js;Building+AI-driven+dev+workflows+with+Claude+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1200&color=05D9E8&background=00000000&center=true&vCenter=true&width=900&size=24&lines=%24+whoami;Wictor+Rafael+%E2%80%94+Fullstack+Engineer;.NET+%2F%2F+Clean+Architecture+%2F%2F+DDD+%2F%2F+CQRS;%24+status+--current;Building+AI+workflows+with+Claude+Code" alt="Typing SVG" />
   </a>
 </p>
 
-- 🇧🇷 Brazilian developer based in Argentina, working full-remote as a Fullstack Engineer.
-- 🏗️ Backend with **.NET**, applying **Clean Architecture**, **DDD** and **CQRS**; frontend with **Vue.js**.
-- 🤖 Building my own AI-assisted development workflow around **Claude Code** — custom skills, hooks and per-module context files.
-- 🧪 Also maintain a personal finance app (Vue 3 + Supabase) used daily by my wife and me.
-- 🌎 Preparing for international opportunities: sharpening my English and closing technical gaps.
-- 💪 Off the keyboard: gym time.
-
-<br>
+```yaml
+role: Fullstack Engineer
+location: Argentina 🇦🇷 (from Brazil 🇧🇷)
+stack:
+  backend: [.NET, "Clean Architecture", DDD, CQRS]
+  frontend: [Vue.js]
+currently:
+  - Building AI-driven dev workflows with Claude Code 🤖
+  - Personal finance app — Vue 3 + Supabase 🧪
+  - Preparing for international opportunities 🌎
+off_duty: gym time 💪
+```
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=wictorrf&theme=dark&hide_border=true#gh-dark-mode-only" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com/?user=wictorrf&hide_border=true&background=FFFFFF&ring=4682B4&fire=4682B4&currStreakLabel=4682B4&sideLabels=333333&currStreakNum=222222&sideNums=222222&dates=666666&stroke=4682B4#gh-light-mode-only" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wictorrf&hide_border=true&background=0D0221&ring=05D9E8&fire=FF2A6D&currStreakLabel=05D9E8&sideLabels=B537F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A&stroke=05D9E8" alt="GitHub Streak" />
 </div>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">🐍 contribution_snake</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wictorrf/wictorrf/output/github-contribution-grid-snake-dark.svg">
@@ -29,27 +31,26 @@
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/wictorrf/wictorrf/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">⚡ tech_stack</h3>
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0D0221?style=for-the-badge&logo=csharp&logoColor=05D9E8)
+![.NET](https://img.shields.io/badge/.NET-0D0221?style=for-the-badge&logo=dotnet&logoColor=FF2A6D)
+![Vue.js](https://img.shields.io/badge/Vue.js-0D0221?style=for-the-badge&logo=vuedotjs&logoColor=B537F2)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=05D9E8)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0D0221?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF2A6D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=B537F2)
+![Git](https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=05D9E8)
+![Docker](https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=FF2A6D)
 
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wictorrafael/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:wictor.santos20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/wictor_rf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/wictorrf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/wictorrafael/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=05D9E8"></a>
+  <a href="mailto:wictor.santos20@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=FF2A6D"></a>
+  <a href="https://instagram.com/wictor_rf" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D0221?style=for-the-badge&logo=instagram&logoColor=B537F2"></a>
+  <a href="https://discord.gg/wictorrf" target="_blank"><img src="https://img.shields.io/badge/Discord-0D0221?style=for-the-badge&logo=discord&logoColor=05D9E8"></a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=1B2735&height=100&section=footer#gh-dark-mode-only)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=100&section=footer#gh-light-mode-only)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:B537F2,100:0D0221&height=100&section=footer)
